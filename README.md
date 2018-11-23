@@ -36,3 +36,10 @@ latihan1
    {
 21.cout<<"Operation Aritmatika Salah"<<endl<<endl;
 22.selesai
+
+
+Hasil Screenshot Latihan1
+
+
+![untitled](https://user-images.githubusercontent.com/44091204/48928572-06111500-ef13-11e8-9db2-29d618240bb9.jpg)
+ 
