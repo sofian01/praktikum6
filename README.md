@@ -43,4 +43,11 @@ Hasil Screenshot Latihan1
 
 
 ![untitled](https://user-images.githubusercontent.com/44091204/48928572-06111500-ef13-11e8-9db2-29d618240bb9.jpg)
+
+
+FLOWCHART
+
+
+![flowchart_praktikum6](https://user-images.githubusercontent.com/44091204/48963713-387e4900-efcb-11e8-89b5-8f0b91294fb5.jpg)
+
  
