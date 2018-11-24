@@ -1,5 +1,6 @@
 # praktikum6
 
+```
 latihan1
 
 1.mulai program
@@ -36,7 +37,7 @@ latihan1
    {
 21.cout<<"Operation Aritmatika Salah"<<endl<<endl;
 22.selesai
-
+```
 
 Hasil Screenshot Latihan1
 
